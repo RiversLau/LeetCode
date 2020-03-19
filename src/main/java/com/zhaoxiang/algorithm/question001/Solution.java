@@ -1,4 +1,4 @@
-package com.zhaoxiang.question001;
+package com.zhaoxiang.algorithm.question001;
 
 import java.util.HashMap;
 import java.util.Map;

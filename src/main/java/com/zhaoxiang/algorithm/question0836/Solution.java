@@ -1,4 +1,4 @@
-package com.zhaoxiang.question0836;
+package com.zhaoxiang.algorithm.question0836;
 
 public class Solution {
 

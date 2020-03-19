@@ -1,4 +1,4 @@
-package com.zhaoxiang.audition0106;
+package com.zhaoxiang.audition.audition0106;
 
 /**
  * 题目描述：字符串压缩。利用字符重复出现的次数，编写一种方法，实现基本的字符串压缩功能。
